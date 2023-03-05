@@ -38,8 +38,7 @@ To install CustomerVoice, you can use pip: `pip install customervoice`
 
 Alternatively, you can clone the repository and install it manually: 
 ```
-git clone https://github.com/AnthonyByansi/CustomerVoice.git
-cd CustomerVoice
+git clone https://github.com/AnthonyByansi/CustomerVoice-Sentiment-Analysis-for-Actionable-Customer-Feedback.git
 python setup.py install
 ```
 ## Usage
