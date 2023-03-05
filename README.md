@@ -16,7 +16,7 @@ To get started with CustomerVoice, you will need to clone the repository and ins
 
 ```
 # Clone the repository
-git clone https://github.com/AnthonyByansi/CustomerVoice.git
+git clone https://github.com/AnthonyByansi/CustomerVoice-Sentiment-Analysis-for-Actionable-Customer-Feedback.git
 
 # Install the dependencies
 pip install -r requirements.txt
