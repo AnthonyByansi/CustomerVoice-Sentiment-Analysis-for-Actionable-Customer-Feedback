@@ -55,3 +55,15 @@ clean_text(text)
 ```
 
 Next, you can use the `sentiment` module to perform sentiment analysis on the customer feedback. CustomerVoice supports both rule-based and machine learning methods for sentiment analysis
+
+``` --python--
+from customervoice.sentiment import RuleSentimentAnalyzer
+
+# Initialize the sentiment analyzer
+analyzer = RuleSentimentAnalyzer()
+
+# Analyze the sentiment of the text
+text = "This product is amazing! I love it so much! #bestproductever"
+sentiment = analyzer.analyze(text)
+# Output: "positive"
+``` 
