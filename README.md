@@ -11,6 +11,16 @@ CustomerVoice is a sentiment analysis project that helps companies analyze custo
 - [Usage](#usage)
 - [License](#license)
 
+## Prerequisites
+CustomerVoice requires the following dependencies:
+
+* Python 3.x
+* pandas
+*  numpy
+* nltk
+* scikit-learn
+* matplotlib
+* seaborn
 
 ## Installation
 To install CustomerVoice, you can use pip: `pip install customervoice`
