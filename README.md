@@ -67,3 +67,5 @@ text = "This product is amazing! I love it so much! #bestproductever"
 sentiment = analyzer.analyze(text)
 # Output: "positive"
 ``` 
+
+Finally, you can use the `visualization` module to visualize the results of the sentiment analysis. CustomerVoice supports various visualization techniques such as word clouds, bar charts, and scatter plots.
