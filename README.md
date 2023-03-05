@@ -69,3 +69,16 @@ sentiment = analyzer.analyze(text)
 ``` 
 
 Finally, you can use the `visualization` module to visualize the results of the sentiment analysis. CustomerVoice supports various visualization techniques such as word clouds, bar charts, and scatter plots.
+
+
+```python
+from customervoice.visualization import WordCloud
+
+# Initialize the word cloud visualization
+wc = WordCloud()
+
+# Visualize the sentiment of the feedback
+feedback = ["This product is amazing!", "I hate this product!", "This product is just okay."]
+sentiment = ["positive", "negative", "neutral"]
+wc.visualize(feedback, sentiment)
+```
