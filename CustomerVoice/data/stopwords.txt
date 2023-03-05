@@ -1,0 +1,32 @@
+Stopwords
+Stopwords are common words that are often removed from text during natural language processing tasks such as sentiment analysis. These words are typically removed because they do not contribute much to the overall meaning of a sentence, and may actually hinder analysis by adding noise to the data.
+
+This file contains a list of stopwords that will be used to filter out common words from customer feedback before further processing. The list was compiled based on commonly used English stopwords, as well as domain-specific stopwords that are commonly used in the context of customer feedback.
+
+List of Stopwords
+Here is the list of stopwords contained in this file:
+
+a
+an
+and
+as
+at
+be
+by
+for
+from
+has
+have
+in
+is
+it
+its
+of
+on
+that
+the
+to
+was
+were
+will
+with
