@@ -14,6 +14,14 @@ CustomerVoice is a sentiment analysis project that helps companies analyze custo
 ## Getting Started
 To get started with CustomerVoice, you will need to clone the repository and install the necessary dependencies.
 
+```
+# Clone the repository
+git clone https://github.com/AnthonyByansi/CustomerVoice.git
+
+# Install the dependencies
+pip install -r requirements.txt
+```
+
 ## Prerequisites
 CustomerVoice requires the following dependencies:
 
