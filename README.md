@@ -46,3 +46,12 @@ python setup.py install
 
 To use **CustomerVoice** , you will need to collect customer feedback data and preprocess it to remove any irrelevant information such as URLs, hashtags, and mentions. You can use the preprocess module to clean and normalize the data.
 
+```
+from customervoice.preprocess import clean_text
+
+# Clean and normalize the text
+text = "This product is amazing! I love it so much! #bestproductever"
+clean_text(text)
+# Output: "product amazing love much"
+```
+
