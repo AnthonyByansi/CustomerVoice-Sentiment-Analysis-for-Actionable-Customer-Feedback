@@ -41,6 +41,8 @@ Alternatively, you can clone the repository and install it manually:
 git clone https://github.com/AnthonyByansi/CustomerVoice.git
 cd CustomerVoice
 python setup.py install
-
 ```
+## Usage
+
+To use **CustomerVoice** , you will need to collect customer feedback data and preprocess it to remove any irrelevant information such as URLs, hashtags, and mentions. You can use the preprocess module to clean and normalize the data.
 
