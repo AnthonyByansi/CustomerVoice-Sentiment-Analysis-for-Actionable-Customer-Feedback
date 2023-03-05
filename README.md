@@ -10,3 +10,7 @@ CustomerVoice is a sentiment analysis project that helps companies analyze custo
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+
+## Installation
+To install CustomerVoice, you can use pip: `pip install customervoice`
