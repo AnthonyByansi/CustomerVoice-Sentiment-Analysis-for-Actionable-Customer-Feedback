@@ -7,7 +7,7 @@ CustomerVoice is a sentiment analysis project that helps companies analyze custo
 
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Installation](#Installation)
 - [Usage](#usage)
 - [License](#license)
 
