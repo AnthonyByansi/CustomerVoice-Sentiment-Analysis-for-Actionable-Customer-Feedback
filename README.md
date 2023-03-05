@@ -11,6 +11,9 @@ CustomerVoice is a sentiment analysis project that helps companies analyze custo
 - [Usage](#usage)
 - [License](#license)
 
+## Getting Started
+To get started with CustomerVoice, you will need to clone the repository and install the necessary dependencies.
+
 ## Prerequisites
 CustomerVoice requires the following dependencies:
 
