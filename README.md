@@ -7,7 +7,7 @@ CustomerVoice is a sentiment analysis project that helps companies analyze custo
 
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Installation](#Installation)
+- [Installation](Installation)
 - [Usage](#usage)
 - [License](#license)
 
@@ -44,7 +44,7 @@ python setup.py install
 ```
 ## Usage
 
-To use **CustomerVoice** , you will need to collect customer feedback data and preprocess it to remove any irrelevant information such as URLs, hashtags, and mentions. You can use the preprocess module to clean and normalize the data.
+To use **CustomerVoice** , you will need to collect customer feedback data and `preprocess` it to remove any irrelevant information such as URLs, hashtags, and mentions. You can use the preprocess module to clean and normalize the data.
 
 ```
 from customervoice.preprocess import clean_text
