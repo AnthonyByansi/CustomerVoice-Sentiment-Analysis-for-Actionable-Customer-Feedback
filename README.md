@@ -35,3 +35,12 @@ CustomerVoice requires the following dependencies:
 
 ## Installation
 To install CustomerVoice, you can use pip: `pip install customervoice`
+
+Alternatively, you can clone the repository and install it manually: 
+```
+git clone https://github.com/AnthonyByansi/CustomerVoice.git
+cd CustomerVoice
+python setup.py install
+
+```
+
